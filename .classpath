@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/genghis/workspace/LibRepo/selenium-server-standalone-2.44.0.jar"/>
+	<classpathentry kind="lib" path="/home/genghis/workspace/LibRepo/log4j2/log4j-api-2.1.jar" sourcepath="/home/genghis/workspace/LibRepo/log4j2/log4j-api-2.1-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/genghis/workspace/LibRepo/log4j2/log4j-api-2.1-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/genghis/workspace/LibRepo/log4j2/log4j-core-2.1.jar" sourcepath="/home/genghis/workspace/LibRepo/log4j2/log4j-core-2.1-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/genghis/workspace/LibRepo/log4j2/log4j-core-2.1-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/genghis/workspace/LibRepo/commons-lang3/commons-lang3-3.3.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/genghis/workspace/LibRepo/commons-lang3/commons-lang3-3.3.2-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
